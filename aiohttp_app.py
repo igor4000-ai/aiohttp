@@ -1,5 +1,4 @@
 from aiohttp import web
-import sqlite3
 import uuid
 import aiosqlite
 from datetime import datetime, timezone
